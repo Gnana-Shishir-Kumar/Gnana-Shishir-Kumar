@@ -34,7 +34,7 @@ AI-powered transit assistant for Boston's free bus network, built with Notion MC
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shishircj)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://dev.to/gnanashishirkumar)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@shishir208309)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chintapalli.g@northeastern.edu)
